@@ -82,3 +82,27 @@ div {
 label {
   display: block;
 }
+
+.blog{
+  color:darkblue;
+  font-family: 'Playfair Display SC', serif;
+}
+
+.post{
+  background-color:lightblue;
+  border-style: solid;
+  border-width: 2px;
+  border-color: blue;
+  margin: 10px 0;
+  border-radius: 10px;
+  color: navy;
+  padding: 5px;
+}
+
+.data{
+  font-family: cursive;
+}
+
+.user{
+  font-weight: 500;
+}
